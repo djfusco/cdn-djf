@@ -1,4 +1,5 @@
 {
+  "fiat": "best_car",
   "entrypoint": "dist/build.html",
   "fragments": [],
   "sources": [
